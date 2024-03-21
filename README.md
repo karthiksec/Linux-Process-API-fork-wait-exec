@@ -57,6 +57,7 @@ int main(void)
 
 
 ##OUTPUT
+![310737928-c4b360a5-d4f2-4290-914f-64f17f16c105](https://github.com/karthiksec/Linux-Process-API-fork-wait-exec/assets/147473368/628cd566-1350-4a0d-ac2b-538235557be3)
 
 
 
